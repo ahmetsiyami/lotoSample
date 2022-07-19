@@ -20,6 +20,6 @@ elif choice =="4" :
     if num2== 0.0 :
         print("Divide by 0 Error")
     else:
-        print (num1,"/" , num2, "=",(num/num2))
+        print (num1,"/" , num2, "=",(num1/num2))
       
 
